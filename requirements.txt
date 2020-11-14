@@ -1,5 +1,10 @@
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 squarify
 locale
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
