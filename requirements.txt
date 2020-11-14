@@ -2,9 +2,4 @@ numpy
 pandas
 matplotlib
 squarify
-locale
-bqplot
-ipympl
-ipyvolume
-scipy
 voila
